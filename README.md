@@ -11,7 +11,7 @@
 
 | Date       | Problem                                                                        | Brian | Mike |
 |------------|--------------------------------------------------------------------------------|-------|------|
-| 2023-03-01 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/description/) | 🍸    |      |
+| 2023-03-01 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/description/) | 🍸    |  V   |
 | 2023-03-02 |                                                                                |       |      |
 | 2023-03-03 |                                                                                |       |      |
 | 2023-03-04 |                                                                                |       |      |
