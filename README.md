@@ -16,7 +16,7 @@
 | 2023-03-03 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |  🍸   |  V   |
 | 2023-03-04 | [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/)                                 |  🍸   |  V   |
 | 2023-03-05 | [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/)                                                                           |  🍸   |  V   |
-| 2023-03-06 | [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number)                                              |  🍸   |      |
+| 2023-03-06 | [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number)                                              |  🍸   |  V   |
 | 2023-03-07 |                                                                                                                                             |       |      |
 | 2023-03-08 |                                                                                                                                             |       |      |
 | 2023-03-09 |                                                                                                                                             |       |      |
