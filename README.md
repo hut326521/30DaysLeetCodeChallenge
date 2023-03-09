@@ -18,7 +18,7 @@
 | 2023-03-05 | [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/)                                                                           |  🍸   |  V   |
 | 2023-03-06 | [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number)                                              |  🍸   |  V   |
 | 2023-03-07 | [2187. Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips)                                        |  🍸   |  V   |
-| 2023-03-08 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                                              |       |  V   |
+| 2023-03-08 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                                              |  🍸   |  V   |
 | 2023-03-09 |                                                                                                                                             |       |      |
 | 2023-03-10 |                                                                                                                                             |       |      |
 | 2023-03-11 |                                                                                                                                             |       |      |
