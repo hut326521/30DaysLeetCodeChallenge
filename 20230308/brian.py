@@ -11,23 +11,18 @@ from unittest import TestCase
 
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
-        min_speed, max_speed = 1, max(piles)
-        while min_speed < max_speed:
-            avg_speed = min_speed + (max_speed - min_speed) // 2
-            time_needed = self.calc_hours_needed(piles, avg_speed)
-            if time_needed > h:
-                # couldn't make it within `h` hours, speed up.
-                min_speed = avg_speed if avg_speed > min_speed else avg_speed + 1
+        # modeling
+        # 1. the array is [1...max(piles)]
+        # 2. evaluation: calc_hours_needed <= h
+        # 3. criteria: first calc_hours_needed <= h
+        left, right = 0, max(piles) + 1
+        while left + 1 != right:
+            mid = left + (right - left) // 2
+            if self.calc_hours_needed(piles, mid) > h:
+                left = mid
             else:
-                # edge case: there's no way to reduce the speed anymore
-                if avg_speed == 1:
-                    return avg_speed
-                # check if slower speed is not feasible. if not, it means
-                # the `avg_speed` is the slowest path we can have.
-                if self.calc_hours_needed(piles, avg_speed - 1) > h:
-                    return avg_speed
-                max_speed = min(max_speed, avg_speed)
-        return max(min_speed, max_speed)
+                right = mid
+        return right
 
 
     def calc_hours_needed(self, piles: List[int], speed: int) -> int:
