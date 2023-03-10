@@ -7,19 +7,22 @@ from unittest import TestCase
 
 class Solution:
     def minimumTime(self, time: List[int], totalTrips: int) -> int:
-        min_time, max_time = 1, max(time) * totalTrips
-        while min_time < max_time:
-            mid_time = (min_time + max_time) // 2
-            trips_finished = sum(mid_time // route for route in time)
-            if trips_finished >= totalTrips:
-                trips_finished_at_prev_sec = sum((mid_time - 1) // route for route in time)
-                # boundary found
-                if trips_finished_at_prev_sec < totalTrips:
-                    return mid_time
-                max_time = mid_time
+        # modeling
+        # 1. array: [1...(totalTrips * max(time))]
+        # 2. evaluation: sum(t // route for route in time) > totalTrips
+        # 3. criteria: min number that satisfies above
+        left, right = 0, totalTrips * max(time)
+        while left + 1 != right:
+            mid = left + (right - left) // 2
+            if self.trips_finished(time, mid) >= totalTrips:
+                right = mid
             else:
-                min_time = mid_time if mid_time > min_time else min_time + 1
-        return min_time
+                left = mid
+        return right
+
+    def trips_finished(self, routes: List[int], time_passed: int):
+        """calculate the complete trips finished by all routes of buses"""
+        return sum(time_passed // route for route in routes)
 
 
 class TestSolution(TestCase):
