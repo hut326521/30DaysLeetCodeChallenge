@@ -20,7 +20,7 @@
 | 2023-03-07 | [2187. Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips)                                        |  🍸   |  V   |
 | 2023-03-08 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                                              |  🍸   |  V   |
 | 2023-03-09 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)                                                            |  🍸   |  V   |
-| 2023-03-10 |                                                                                                                                             |       |      |
+| 2023-03-10 | [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)                                                      |       |  V   |
 | 2023-03-11 |                                                                                                                                             |       |      |
 | 2023-03-12 |                                                                                                                                             |       |      |
 | 2023-03-13 |                                                                                                                                             |       |      |
