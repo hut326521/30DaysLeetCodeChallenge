@@ -1,4 +1,4 @@
-from typing import Optional
+from typing import Optional, List
 
 
 class ListNode:
@@ -30,3 +30,11 @@ def find_node_by_index(
     for _ in range(index):
         node = node.next
     return node
+
+def arr_to_linked_list(nums: List[int]) -> Optional[ListNode]:
+    dummy = last = ListNode(-1)
+    for num in nums:
+        new = ListNode(num)
+        last.next = new
+        last = last.next
+    return dummy.next
