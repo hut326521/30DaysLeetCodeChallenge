@@ -22,7 +22,7 @@
 | 2023-03-09 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)                                                            |  🍸   |  V   |
 | 2023-03-10 | [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)                                                      |  🍸   |  V   |
 | 2023-03-11 | [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/]                  |  🍸   |      |
-| 2023-03-12 |                                                                                                                                             |       |      |
+| 2023-03-12 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)                                                              |  🍸   |      |
 | 2023-03-13 |                                                                                                                                             |       |      |
 | 2023-03-14 |                                                                                                                                             |       |      |
 | 2023-03-15 |                                                                                                                                             |       |      |
