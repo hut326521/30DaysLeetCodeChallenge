@@ -2,7 +2,7 @@
 Just like the concept of MergeSort.
 Partition every node and let it merge in increased.
 After merge all node, return it.
-Tomorrow I'll see other way to solve this problem, but I don't have energy to do this know.
+Tomorrow I'll explore alternative ways to solve this problem, but I don't have the energy to do it right now.
 */
 class Solution {
     public static ListNode mergeKLists(ListNode[] lists){
