@@ -1,3 +1,10 @@
+"""
+For this problem, it's straightforward that we can use recursion
+to solve. We can compare the left and right nodes for their values first,
+then compare two combinations.
+1. left node's left versus right node's right
+2. left node's right versus right node's left
+"""
 from typing import Optional
 
 from py_utils.tree import TreeNode
