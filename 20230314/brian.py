@@ -1,3 +1,8 @@
+"""
+We can simply apply the DFS approach to solve this problem. One point to pay
+attention to is the definition of a leaf. Only the node without left and right
+child is considered a leaf.
+"""
 from typing import Optional
 
 from py_utils.tree import TreeNode
