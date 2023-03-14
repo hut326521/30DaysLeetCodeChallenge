@@ -24,7 +24,7 @@
 | 2023-03-11 | [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)                  |  🍸   |  F   |
 | 2023-03-12 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)                                                              |  🍸   |  V   |
 | 2023-03-13 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                                                        |  🍸   |  V   |
-| 2023-03-14 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)                                                    |  🍸   |      |
+| 2023-03-14 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)                                                    |  🍸   |  V   |
 | 2023-03-15 |                                                                                                                                             |       |      |
 | 2023-03-16 |                                                                                                                                             |       |      |
 | 2023-03-17 |                                                                                                                                             |       |      |
