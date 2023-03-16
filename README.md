@@ -26,7 +26,7 @@
 | 2023-03-13 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                                                                         |  🍸   |  V   |
 | 2023-03-14 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)                                                                     |  🍸   |  V   |
 | 2023-03-15 | [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)                                               |  🍸   |  V   |
-| 2023-03-16 | [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) |  🍸   |      |
+| 2023-03-16 | [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) |  🍸   |  V   |
 | 2023-03-17 |                                                                                                                                                              |       |      |
 | 2023-03-18 |                                                                                                                                                              |       |      |
 | 2023-03-19 |                                                                                                                                                              |       |      |
