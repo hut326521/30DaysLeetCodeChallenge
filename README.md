@@ -28,7 +28,7 @@
 | 2023-03-15 | [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)                                               |  🍸   |  V   |
 | 2023-03-16 | [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) |  🍸   |  V   |
 | 2023-03-17 | [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)                                                               |  🍸   |  V   |
-| 2023-03-18 | [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/)                                                                        |       |  V   |
+| 2023-03-18 | [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/)                                                                        |  🍸   |  V   |
 | 2023-03-19 |                                                                                                                                                              |       |      |
 | 2023-03-20 |                                                                                                                                                              |       |      |
 | 2023-03-21 |                                                                                                                                                              |       |      |
