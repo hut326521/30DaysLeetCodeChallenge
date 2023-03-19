@@ -29,7 +29,7 @@
 | 2023-03-16 | [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) |  🍸   |  V   |
 | 2023-03-17 | [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)                                                               |  🍸   |  V   |
 | 2023-03-18 | [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/)                                                                        |  🍸   |  V   |
-| 2023-03-19 | [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure)                                  |  🍸   |      |
+| 2023-03-19 | [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure)                                  |  🍸   |  V   |
 | 2023-03-20 |                                                                                                                                                              |       |      |
 | 2023-03-21 |                                                                                                                                                              |       |      |
 | 2023-03-22 |                                                                                                                                                              |       |      |
