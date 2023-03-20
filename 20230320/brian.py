@@ -1,3 +1,6 @@
+"""
+We can use greedy algorithm to solve this problem.
+"""
 from typing import List
 
 from py_utils.unit_test import LeetcodeProblemTestCase
