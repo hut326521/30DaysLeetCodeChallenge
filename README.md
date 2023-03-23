@@ -33,7 +33,7 @@
 | 2023-03-20 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                                                                                   |  🍸   |  V   |
 | 2023-03-21 | [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/)                                                      |  🍸   |  V   |
 | 2023-03-22 | [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/)                                |  🍸   |  V   |
-| 2023-03-23 |                                                                                                                                                              |       |      |
+| 2023-03-23 | [1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)                        |  🍸   |      |
 | 2023-03-24 |                                                                                                                                                              |       |      |
 | 2023-03-25 |                                                                                                                                                              |       |      |
 | 2023-03-26 |                                                                                                                                                              |       |      |
