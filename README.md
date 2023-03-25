@@ -34,7 +34,7 @@
 | 2023-03-21 | [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/)                                                      |  🍸   |  V   |
 | 2023-03-22 | [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/)                                |  🍸   |  V   |
 | 2023-03-23 | [1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)                        |  🍸   |  V   |
-| 2023-03-24 | [1466. Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)        |       |  V   |
+| 2023-03-24 | [1466. Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)        |  🍸   |  V   |
 | 2023-03-25 | [2316. Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/)      |  🍸   |      |
 | 2023-03-26 |                                                                                                                                                              |       |      |
 | 2023-03-27 |                                                                                                                                                              |       |      |
