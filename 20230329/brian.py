@@ -3,6 +3,15 @@ For customers with more satisfaction scores, we should serve them later. That
 is, sort the satisfaction array to model the solution.
 Then iterate from the highest score to the lowest score. We calculate the profit
 to serve that new customer. If it's profitable, we serve; otherwise we reject.
+
+Assume satisfaction array is sorted descending, the profit we can get by serving
+customer `i` can be calculated by the formula.
+profit(i) = satisfaction[i] + sum(satisfaction[:i])
+
+To prove above formula, we take the satisfaction array below as an example to
+calculate profit(2).
+satisfaction = [a, b, c] (a >= b >= c)
+profit(2) = 3a + 2b + 1c - (2a + 1b) = c + (a + b)
 """
 from typing import List
 
