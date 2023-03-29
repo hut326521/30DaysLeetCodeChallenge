@@ -39,6 +39,6 @@
 | 2023-03-26 | [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/)                                                                    |  🍸   |  V   |
 | 2023-03-27 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)                                                                                      |  🍸   |  V   |
 | 2023-03-28 | [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)                                                                     |  🍸   |  V   |
-| 2023-03-29 |                                                                                                                                                              |       |      |
+| 2023-03-29 | [1402. Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)                                                                                     |       |  V   |
 | 2023-03-30 |                                                                                                                                                              |       |      |
 | 2023-03-31 |                                                                                                                                                              |       |      |
