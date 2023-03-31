@@ -41,4 +41,4 @@
 | 2023-03-28 | [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)                                                                     |  🍸   |  V   |
 | 2023-03-29 | [1402. Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)                                                                                      |  🍸   |  V   |
 | 2023-03-30 | [87. Scramble String](https://leetcode.com/problems/scramble-string/)                                                                                        |  🍸    |      |
-| 2023-03-31 |                                                                                                                                                              |       |      |
+| 2023-03-31 | [1444. Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/description/)                                      |   🍸   |      |
